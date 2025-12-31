@@ -1,0 +1,78 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega16"</DEVICE>
+ <WORKING_DIR>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m16def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\Debug\Assembly Spel (LAB4).obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Assembly Spel (LAB4).hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Assembly Spel (LAB4).map</FILE>
+  <FILE>Assembly Spel (LAB4).lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <POSX><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>18</LINE></POSX>
+  <POSY><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>19</LINE></POSY>
+  <TPOSX><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>20</LINE></TPOSX>
+  <TPOSY><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>21</LINE></TPOSY>
+  <LINE><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>22</LINE></LINE>
+  <VMEM><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>23</LINE></VMEM>
+  <SEED><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>24</LINE></SEED>
+  <START><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>51</LINE></START>
+  <MUX><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>97</LINE></MUX>
+  <HW_INIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>306</LINE></HW_INIT>
+  <WARM><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>158</LINE></WARM>
+  <GAME><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>64</LINE></GAME>
+  <JOYSTICK><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>184</LINE></JOYSTICK>
+  <ERASE_VMEM><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>380</LINE></ERASE_VMEM>
+  <UPDATE><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>266</LINE></UPDATE>
+  <CHECK_HIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>74</LINE></CHECK_HIT>
+  <DELAY><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>388</LINE></DELAY>
+  <CHECK_EXIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>88</LINE></CHECK_EXIT>
+  <MUX_START><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>98</LINE></MUX_START>
+  <LINE_CHECK><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>109</LINE></LINE_CHECK>
+  <LINE_INCREASE><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>115</LINE></LINE_INCREASE>
+  <MUX_CONTINUE><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>118</LINE></MUX_CONTINUE>
+  <INCREASE_SEED><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>141</LINE></INCREASE_SEED>
+  <MUX_EXIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>131</LINE></MUX_EXIT>
+  <SEED_EXIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>149</LINE></SEED_EXIT>
+  <RANDOM><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>350</LINE></RANDOM>
+  <BEEP><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>403</LINE></BEEP>
+  <CHECK><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>203</LINE></CHECK>
+  <LIMITS><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>237</LINE></LIMITS>
+  <CONVERT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>224</LINE></CONVERT>
+  <CHECK_ZERO><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>215</LINE></CHECK_ZERO>
+  <CHECK_POS><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>212</LINE></CHECK_POS>
+  <JOYSTICK_END><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>219</LINE></JOYSTICK_END>
+  <WAIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>227</LINE></WAIT>
+  <POS_LIM><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>249</LINE></POS_LIM>
+  <POS_LESS><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>255</LINE></POS_LESS>
+  <POS_OK><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>257</LINE></POS_OK>
+  <SETPOS><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>279</LINE></SETPOS>
+  <SETBIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>291</LINE></SETBIT>
+  <SETBIT_LOOP><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>293</LINE></SETBIT_LOOP>
+  <SETBIT_END><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>298</LINE></SETBIT_END>
+  <OUTPUTS><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>316</LINE></OUTPUTS>
+  <ADC8><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>325</LINE></ADC8>
+  <BREAK_INIT><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>332</LINE></BREAK_INIT>
+  <SET_POINTERS><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>339</LINE></SET_POINTERS>
+  <RANDOM_LOOP><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>361</LINE></RANDOM_LOOP>
+  <RANDOM_END><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>367</LINE></RANDOM_END>
+  <DELAY_OUTER><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>392</LINE></DELAY_OUTER>
+  <DELAY_INNER><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>394</LINE></DELAY_INNER>
+  <BEEP_LOOP><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>410</LINE></BEEP_LOOP>
+  <BEEP_DELAY><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>426</LINE></BEEP_DELAY>
+  <BEEP_DELAY_LOOP><FILE>C:\Users\olof\Documents\Atmel Studio\7.0\Assembly Spel (LAB4)\Assembly Spel (LAB4)\main.asm</FILE><LINE>429</LINE></BEEP_DELAY_LOOP>
+ </LABELS>
+</ASSEMBLER_INFO>
